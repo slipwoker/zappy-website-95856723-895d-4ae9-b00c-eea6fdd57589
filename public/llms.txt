@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://topai-95856723.zappy5.app
+https://example.com
 TopAi מביאה לכם לידים איכותיים וסגירות עסקאות בשיפוצי אמבטיה ובתים. מודל ייחודי מבוסס תוצאות: תשלמו רק אחרי הצלחה, עם אחריות מלאה. התחילו להרוויח היום!
 
 ### שירותים
-https://topai-95856723.zappy5.app/services
+https://example.com/services
 שירותי פרימיום הכוללים קמפיינים בפייסבוק, בניית דפים מותאמים ומערכת CRM מלאה לניהול לידים. כל מה שקבלן שיפוצים צריך תחת קורת גג אחת, עם תשלום רק על תוצאות.
 
 ### תוצאות
-https://topai-95856723.zappy5.app/results
+https://example.com/results
 צפו בקמפיין אמיתי שהניב 9 סגירות ומעל 20,000 ש&quot;ח הכנסה ללקוח. תוצאות מוכחות שממחישות איך אנחנו מייצרים צמיחה עסקית מדידה עבור קבלני אמבטיה ובתים.
 
 ### אודות
-https://topai-95856723.zappy5.app/about
+https://example.com/about
 TopAi היא סוכנות בוטיקית שקמה כדי לפתור את כאבי השיווק של קבלני שיפוצים. אנחנו מאמינים באחריות מלאה, שקיפות ומודל תשלום שמתגמל רק הצלחה. בואו להכיר את הצוות שמאחורי המספרים.
 
 ### צור קשר
-https://topai-95856723.zappy5.app/contact
+https://example.com/contact
 השאירו פרטים ונתחיל לתכנן את הקמפיין המנצח שלכם. ייעוץ ראשוני ללא עלות, עם התחייבות לתוצאות. זה הצעד הראשון להפוך כל ליד לפרויקט רווחי בשיפוצים.
 
 ### תודה רבה | TopAi
-https://topai-95856723.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך ל-TopAi, סוכנות שיווק דיגיטלי לנדל״ן. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://topai-95856723.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://topai-95856723.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://topai-95856723.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://topai-95856723.zappy5.app/contact
-- Endpoint: https://topai-95856723.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -91,6 +91,6 @@ Digital Marketing Agency
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://topai-95856723.zappy5.app/sitemap.xml
-- Robots: https://topai-95856723.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://topai-95856723.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
